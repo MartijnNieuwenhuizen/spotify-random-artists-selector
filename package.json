@@ -1,7 +1,7 @@
 {
-  "name": "article-length-generator",
+  "name": "spotify-random-artists-selector",
   "version": "0.0.1",
-  "description": "Generating the article length based on a provided URL",
+  "description": "Select a random artists from your Spotify saved songs",
   "author": "Martijn Nieuwenhuizen (martijnnieuwenhuizen@icloud.com)",
   "main": "index.js",
   "engines": {
